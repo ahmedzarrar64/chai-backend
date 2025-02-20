@@ -1,0 +1,14 @@
+{
+  "name": "nodeprojectbackend",
+  "version": "1.0.0",
+  "description": "chaicon on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Zarrar Ahmed",
+  "license": "ISC"
+}
