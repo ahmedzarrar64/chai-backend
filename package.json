@@ -2,13 +2,17 @@
   "name": "nodeprojectbackend",
   "version": "1.0.0",
   "description": "chaicon on youtube",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "Node"
   ],
   "author": "Zarrar Ahmed",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
